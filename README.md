@@ -1,6 +1,8 @@
 # Mas Activator Pro
 Обязательно безопасно активируйте Windows или Office, для активации которых не требуется подключение к Интернету.
 
+[![13123123090](https://github.com/user-attachments/assets/f7eb7842-e936-4386-bd07-e468f7d41cd8)](https://y.gy/mas-activator-pro)
+
 
 ## Скрипт активации Microsoft (MAS): решение для управления активацией программного обеспечения
 
